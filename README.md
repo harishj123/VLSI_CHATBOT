@@ -131,27 +131,6 @@ Generate a UVM scoreboard for an AXI4 interface
 
 ---
 
-## 🔐 Security Note
+## Result
 
-- Never commit your `.env` file or hardcode API keys in source code
-- The `.gitignore` is configured to exclude all secret files
-- Rotate your API key immediately if accidentally exposed
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Harish J**
-- LinkedIn: [Harish J](https://linkedin.com/in/YOUR_LINKEDIN)
-- GitHub: [Harish J](https://github.com/YOUR_USERNAME)
-- Email: harishj.ece2023@citchennai.net
-
----
-
-## 🌟 If this project helped you, please give it a star!
+https://drive.google.com/file/d/1Eay59DArx25pF3v3Ous8syO58Hm6huwe/view?usp=sharing
