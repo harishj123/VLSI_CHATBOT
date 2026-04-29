@@ -1,0 +1,6 @@
+streamlit
+google-genai
+matplotlib
+networkx
+selenium
+webdriver-manager
