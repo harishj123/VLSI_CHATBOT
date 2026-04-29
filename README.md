@@ -10,16 +10,6 @@ An AI-powered VLSI Design & Verification Assistant built with **Google Gemini 2.
 
 ---
 
-## 🖥️ Screenshots
-
-> Add screenshots inside the `screenshots/` folder and they will appear here.
-
-| Chat Interface | Waveform Generator |
-|---|---|
-| ![Chat](screenshots/chat_demo.png) | ![Waveform](screenshots/waveform_demo.png) |
-
----
-
 ## ✨ Features
 
 - 💬 **AI Chat Interface** — Ask anything about VLSI design and verification
